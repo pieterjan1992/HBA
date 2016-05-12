@@ -1,0 +1,30 @@
+COOL PROJECTS OF THE INTERNET:
+
+Wifi internet radio:
+http://www.plingboot.com/2013/08/cardboard-raspberry-pi-wifi-internet-radio/
+
+Media server:
+https://github.com/jpswade/pims
+
+NAS server:
+https://www.reddit.com/r/raspberry_pi/comments/3jnaqx/pikeeper_keep_your_data_fresh_a_pibased_nas/
+
+Dropbox:
+https://pisavvy.com/how-make-dropbox-clone-out-your-raspberry-pi-using-owncloud
+http://www.reddit.com/r/raspberry_pi/comments/39f1ej/how_would_i_setup_my_pi_to_be_a_dropbox_for_me/
+
+music player over the local network in browser:
+https://github.com/schollz/music
+http://www.rpimusicplayer.com
+
+reads tweets out loud:
+https://github.com/jpescada/TwitterPiBot
+
+Google calendar:
+http://imgur.com/a/4rENc
+
+Bittorent box:
+http://www.howtogeek.com/142044/how-to-turn-a-raspberry-pi-into-an-always-on-bittorrent-box/
+
+guard system:
+http://videos.cctvcamerapros.com/raspberry-pi/send-push-notifications-pir-motion-detector.html
