@@ -1,0 +1,42 @@
+SESION 1:
+
+The big bang theory movie notes:
+The first clip shows how if you open up things that are connected on the internet people 
+could use them. in the clip is it is made to be funny but this could also be used against 
+you. This idea would be possible
+
+Scenario:
+Lighting, Entertainment, remote access
+
+Technologies : Remote access, RC Cars, webcams, lighting, stereo
+
+Feasable : Yes.
+
+Weirdness: not that weird it is totally doable.
+
+The siemens project video:
+
+Scenario: Knowing which vehicles and persons have entered a building.
+Energy management meaning distribution, storage, smart city, personal navigation, 
+
+Technologie:Automatic lighting, automated parking, body scanning, flow detection,
+Mobile devices, smart elevators
+
+Feasable:No, too much data flow would make the system hard to implement.
+Also very hard to make this secure against hacks.
+
+weirdness: very big scale hard to realize.
+
+PROBLEMS:
+
+problem with import Rpi.GPIO in python script had to apt-get install python-dev
+and then install the RPi-GPIO
+
+problem with installing git to install the gpio had to update apt-get
+
+problem with connection the pi to the internet had to change the resolv.conf file. 
+
+installing the imap client gave an error did and upgrade command that seemed to work
+
+Had a problem with turning on the GPIO pins with the command line. Had to set the pin
+mode to out before it worked
