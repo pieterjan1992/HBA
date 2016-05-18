@@ -40,3 +40,34 @@ installing the imap client gave an error did and upgrade command that seemed to 
 
 Had a problem with turning on the GPIO pins with the command line. Had to set the pin
 mode to out before it worked
+
+SESION 2:
+
+Installed mosquitto to have an mqtt server with the apt-get install mosquitto command.
+
+Installed the python mqtt library with pip install paho-mqtt.
+
+Ran the basic script and modified it to turn on the led on GPIO port 16 with the start
+and stop command.
+
+I had a problem getting how i had to do mqtt and turn the led on. Sebastian gave me a
+good website where it was all good explained and documented.
+
+https://pypi.python.org/pypi/paho-mqtt/1.1
+
+Also had some problems with python so i had to look up how things worked on stack overflow.
+
+red a tutorial on python that used a raspberry pi
+
+http://blog.bandwidth.com/actually-using-your-raspberry-pi-part-3-teaching-everyone-the-basics-of-python/?utm_medium=social&utm_source=reddit&utm_campaign=dtolb&utm_content=_
+
+Installed an ubuntu virtual machine but haven't configured the serial port yet.
+
+Useful commands/remarks:
+
+install mosquito server apt-get install mosquito -> this was needed to install 
+the MQTT server
+
+gpio -g mode 20 out -> for putting a gpio port as output
+
+mosquitto fx has a jar that has a user interface

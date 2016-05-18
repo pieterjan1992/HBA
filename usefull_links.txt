@@ -2,3 +2,6 @@ USEFULL LINKS:
 
 Wiring pro gpio commands:
 http://wiringpi.com/the-gpio-utility/
+
+learning python with raspberry pi:
+http://blog.bandwidth.com/actually-using-your-raspberry-pi-part-3-teaching-everyone-the-basics-of-python/?utm_medium=social&utm_source=reddit&utm_campaign=dtolb&utm_content=_
