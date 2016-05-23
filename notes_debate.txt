@@ -1,0 +1,45 @@
+
+COMFORT:
+
+If you get out of your car when you arrive home what is the difference of taking your keys out of your pocket to open the door or having to take your phone to unlock it?
+
+one could argue that a full home automatizing system is like a computer it can do a whole lot things faster like a computer with short cuts, but 90% of the people don’t use them and still do everything old fashioned.
+
+
+
+COSTS:
+
+even tough i believe that a home automating system can save energy and electricity the amount it saves will never compare to the installation and maintenance costs.
+
+There is a website that calculated the costs of a home automation if they bought the normal brands of everything they needed and the costs would mount up to $2300 compared to 
+
+it would still make $2300 + you would have to set up everything yourself which 90% of the people wouldn’t be able to do.
+http://www.makeuseof.com/tag/much-smart-home-really-cost/
+
+other websites speak of $5000 -> $15000(THAT’S THE SAME AS A POOL ???)
+
+http://www.fixr.com/costs/home-automation
+
+if a normal lightbulb breaks it won’t make that big of a difference… if a hue light bulb breaks it’s expensive … and they can break just as easily as a normal one.
+
+SOFTWARE/INTERFACES:
+
+What would you do if you had to pay every year to keep the latest versions like for example with GPS maps… Development costs money and no company gives something for free.
+
+I don’t think anyone would trust a company with the data of their home and family. Giving up privacy on smartphones and search and what not may be acceptable for a lot of people but everyone will draw the line at their own home and family.
+
+SECURITY/PRIVACY:
+
+
+PORTLAND, Ore. — August 3, 2015 — Tripwire, Inc., a leading global provider of advanced threat, security and compliance management solutions, today announced results of an extensive security assessment of three top-selling smart home automation hub products available on Amazon. The research uncovered zero-day flaws in each hub that could allow hackers to take control of smart home functionalities.  
+
+Smart home hubs are used to control lighting, heating, locks and cameras in people’s homes. In order to understand the risks associated with smart home hubs, Tripwire’s Vulnerability and Exposure Research Team (VERT) analyzed three of the top-selling smart home systems on Amazon. Tripwire security researchers found zero-day flaws in each of the devices that, if successfully exploited, would enable hackers to:
+
+Identify when people are out of their home.
+Change alarm settings.
+Open locks without authorization.
+Access local area networks.
+Use smart hubs for DDoS purposes.
+
+
+Samsung Smart Home flaws let hackers make keys to front door- samsung one of the biggest electronica companies in the world can’t even build a secure home automating system what makes you think an open source smaller project would be able to do it then?
