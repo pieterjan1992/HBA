@@ -109,3 +109,5 @@ https://github.com/openhab/openhab/wiki/Samples-Rules
 
 documentation on rules:
 https://github.com/openhab/openhab/wiki/Rules
+
+SESSION 4:
