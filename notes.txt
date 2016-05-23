@@ -1,4 +1,4 @@
-SESION 1:
+SESSION 1:
 
 The big bang theory movie notes:
 The first clip shows how if you open up things that are connected on the internet people 
@@ -41,7 +41,7 @@ installing the imap client gave an error did and upgrade command that seemed to 
 Had a problem with turning on the GPIO pins with the command line. Had to set the pin
 mode to out before it worked
 
-SESION 2:
+SESSION 2:
 
 Installed mosquitto to have an mqtt server with the apt-get install mosquitto command.
 
@@ -71,3 +71,41 @@ the MQTT server
 gpio -g mode 20 out -> for putting a gpio port as output
 
 mosquitto fx has a jar that has a user interface
+
+SESSION 3:
+
+I had problems with my virtual machine and have not configured the serial connection with pio
+
+openhab installed on the raspberry through filezilla in the opt/openhab folder
+
+installed java with apt-get install default-jdk
+
+had problems with the openhab demo because i forgot to put the demo in the right maps
+
+Getting the led to work :
+
+followed the guide on https://mcuoneclipse.com/2015/12/24/blinky-led-with-openhab-on-raspberry-pi/
+
+i have a problem with my leds they turn off automatically because something crashes
+i still have to put on the log and see why.(maybe because of the usage of the gpio command)
+
+turning on the led with the button the gpio changes from zero to one when pressed 
+but when i try to to change the led to on it doesn’t work with sendUpdate
+
+i had a problem because the led was not turning on i checked the gpio port everything
+was set correctly i changed it to another port and it worked. couldn’t replicate the problem
+
+Used the following tutorial to do the GPIO Binding:
+https://github.com/openhab/openhab/wiki/GPIO-Binding
+
+I Had a problem with creating a group for the led as i couldn't figure out how it was 
+done by the examples i asked sebastian for help and he showed me an easy way.
+
+Explanation of items in openhab:
+https://github.com/openhab/openhab/wiki/Explanation-of-items
+
+found a lot of example rules:
+https://github.com/openhab/openhab/wiki/Samples-Rules
+
+documentation on rules:
+https://github.com/openhab/openhab/wiki/Rules
