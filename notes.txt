@@ -111,3 +111,29 @@ documentation on rules:
 https://github.com/openhab/openhab/wiki/Rules
 
 SESSION 4:
+
+Notes from the other guys on how they did enocean
+-connect the connector with the pi
+-the router from enocean is connected with the serial pins
+-disable the serial tty
+-include the enocean binding
+-setup in the configuration of openhab so it connects to the right serial
+-when you define the switch in the enocean config you have to give in the serial number
+
+site for all information about setting up hue: http://huelights.com/faq.html#faq-1000
+
+https://www.dmlights.com/philips-hue-faq.l#38 (from flo)
+
+There was a problem with lampstealer we could not reset the lamps so we used telnet to reset the lamp connection.
+
+https://github.com/openhab/openhab/wiki/Hue-Binding
+
+we then followed this link : https://github.com/openhab/openhab/wiki/Hue-Binding
+to connect the Hue to openhab but it didn't work since philips last month updated their
+firmware of the bridges to be more secure. details of the update can be found here:
+http://www2.meethue.com/en-us/support/firmware-update/
+
+i looked at the code and it seemed we needed version 1.8.3 before it could work.
+we tested it with no results until flo came up with the solution
+https://github.com/openhab/openhab/pull/4311
+
